@@ -1,0 +1,2 @@
+# gitignore
+to ignore things
